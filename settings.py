@@ -1,0 +1,8 @@
+MYSQL_HOSTNAME = "localhost"
+MYSQL_USERNAME = "root"
+MYSQL_PASSWORD = "nsdpwd7NSDPWD&"
+MYSQL_DATABASE = "company"
+
+THREADS_COUNT = 2
+PROXY_FLAG = False
+CAPTCHA_API = '5e9dfea7bf27a7f40255b4de18af9b30cb'
